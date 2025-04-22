@@ -1,1 +1,1 @@
-// Custom hooks
+// Egendefinierade React hooks (t.ex. useCart, useAuth)
